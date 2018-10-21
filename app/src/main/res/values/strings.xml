@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView Sample</string>
+    <string name="price_tag">Price:</string>
+</resources>
